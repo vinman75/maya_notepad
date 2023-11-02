@@ -4,6 +4,9 @@ Version: 1.0.0
 Author: Vincent Rossini
 Date: October 2023
 
+
+Github: https://raw.githubusercontent.com/vinman75/maya_notepad/main.py
+
 Description: 
 This tool provides a simple notepad functionality within Maya. 
 It allows users to open, edit, save, and manage text files directly from the Maya interface. 
